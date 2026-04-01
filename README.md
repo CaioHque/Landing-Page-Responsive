@@ -3,7 +3,7 @@ Este projeto consiste em uma landing page moderna e responsiva desenvolvida com 
 
 ## 🚀 Demonstração
 
-🔗 Acesse aqui: 
+🔗 Acesse aqui: https://caiohque.github.io/Landing-Page-Responsive/
 
 ## 🛠️ Tecnologias
 
